@@ -1,3 +1,7 @@
+body {
+  background: orange;
+}
+
 .parallax {
   perspective: 1px;
   height: 100vh;
