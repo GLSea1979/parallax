@@ -1,0 +1,160 @@
+{
+  margin: 0;
+  text-decoration: none;
+}
+
+.aboutUsTitle{
+  color: #ddd;
+  background-color: #282E34;
+  text-align: center;
+  padding: 50px 80px;
+  text-align: justify;
+}
+/*Marc Information*/
+.marcClass{
+  position: relative;
+  color: #ddd;
+  background-color: #282E34;
+  padding: 50px 80px;
+  text-align: center;
+}
+
+.gitPicMarc{
+  width:50px;
+  height:50px;
+  margin: auto;
+}
+
+.linkPicMarc  {
+  width:50px;
+  height:50px;
+  margin:auto;
+}
+
+/*Regan Information*/
+.reganClass{
+  position: relative;
+  color: #ddd;
+  background-color: #282E34;
+  padding: 50px 80px;
+  text-align: center;
+}
+
+.gitPicRegan{
+  width:50px;
+  height:50px;
+  margin: auto;
+}
+
+.linkPicRegan{
+  width:50px;
+  height:50px;
+  margin:auto;
+}
+
+/*Erick Information*/
+.erickClass{
+  position: relative;
+  color: #ddd;
+  background-color: #282E34;
+  padding: 50px 80px;
+  text-align: center;
+}
+
+.gitPicErick{
+  width:50px;
+  height:50px;
+  margin: auto;
+}
+
+.linkPicErick{
+  width:50px;
+  height:50px;
+  margin:auto;
+}
+/*Pavel Information*/
+.pavelClass{
+  position: relative;
+  color: #ddd;
+  background-color: #282E34;
+  padding: 50px 80px;
+  text-align: center;
+}
+
+.gitPicPavel{
+  width:50px;
+  height:50px;
+  margin: auto;
+}
+
+.linkPicPavel{
+  width:50px;
+  height:50px;
+  margin:auto;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+/*Paralax Scrolling Under*/
+.boatPic, .marcPic, .reganPic, .erickPic, .pavelPic {
+  background-color: black;
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.boatPic {
+  background-image: url("img/boat.jpg");
+  min-height: 780px;
+}
+
+.marcPic {
+  background-image: url("img/bushonstone.jpg");
+  min-height: 650px;
+}
+
+.reganPic {
+  background-image: url("img/trail.jpg");
+  min-height: 650px;
+}
+.erickPic {
+  background-image: url("img/thaiboat.jpg");
+  min-height: 650px;
+}
+.pavelPic {
+  background-image: url("img/mountainboat.jpg");
+  min-height: 650px;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #c29970;
+  text-align: center;
+}
