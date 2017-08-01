@@ -117,20 +117,20 @@ body, html {
 
 .marcPic {
   background-image: url("img/bushonstone.jpg");
-  min-height: 650px;
+  min-height: 780px;
 }
 
 .reganPic {
   background-image: url("img/trail.jpg");
-  min-height: 650px;
+  min-height: 780px;
 }
 .erickPic {
   background-image: url("img/thaiboat.jpg");
-  min-height: 650px;
+  min-height: 780px;
 }
 .pavelPic {
   background-image: url("img/mountainboat.jpg");
-  min-height: 650px;
+  min-height: 780px;
 }
 
 .caption {
