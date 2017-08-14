@@ -10,8 +10,8 @@
   padding: 50px 80px;
   text-align: justify;
 }
-/*Marc Information*/
-.marcClass{
+/*lava Information*/
+.lavaClass{
   position: relative;
   color: #ddd;
   background-color: #282E34;
@@ -19,20 +19,20 @@
   text-align: center;
 }
 
-.gitPicMarc{
+.gitPiclava{
   width:50px;
   height:50px;
   margin: auto;
 }
 
-.linkPicMarc  {
+.linkPiclava  {
   width:50px;
   height:50px;
   margin:auto;
 }
 
-/*Regan Information*/
-.reganClass{
+/*trail Information*/
+.trailClass{
   position: relative;
   color: #ddd;
   background-color: #282E34;
@@ -40,20 +40,20 @@
   text-align: center;
 }
 
-.gitPicRegan{
+.gitPictrail{
   width:50px;
   height:50px;
   margin: auto;
 }
 
-.linkPicRegan{
+.linkPictrail{
   width:50px;
   height:50px;
   margin:auto;
 }
 
-/*Erick Information*/
-.erickClass{
+/*ribbons Information*/
+.ribbonsClass{
   position: relative;
   color: #ddd;
   background-color: #282E34;
@@ -61,19 +61,19 @@
   text-align: center;
 }
 
-.gitPicErick{
+.gitPicribbons{
   width:50px;
   height:50px;
   margin: auto;
 }
 
-.linkPicErick{
+.linkPicribbons{
   width:50px;
   height:50px;
   margin:auto;
 }
-/*Pavel Information*/
-.pavelClass{
+/*mountain Information*/
+.mountainClass{
   position: relative;
   color: #ddd;
   background-color: #282E34;
@@ -81,13 +81,13 @@
   text-align: center;
 }
 
-.gitPicPavel{
+.gitPicmountain{
   width:50px;
   height:50px;
   margin: auto;
 }
 
-.linkPicPavel{
+.linkPicmountain{
   width:50px;
   height:50px;
   margin:auto;
@@ -100,7 +100,7 @@ body, html {
   color: #777;
 }
 /*Paralax Scrolling Under*/
-.boatPic, .marcPic, .reganPic, .erickPic, .pavelPic {
+.boatPic, .lavaPic, .trailPic, .ribbonsPic, .mountainPic {
   background-color: black;
   position: relative;
   background-attachment: fixed;
@@ -115,20 +115,20 @@ body, html {
   min-height: 780px;
 }
 
-.marcPic {
+.lavaPic {
   background-image: url("img/bushonstone.jpg");
   min-height: 780px;
 }
 
-.reganPic {
+.trailPic {
   background-image: url("img/trail.jpg");
   min-height: 780px;
 }
-.erickPic {
+.ribbonsPic {
   background-image: url("img/thaiboat.jpg");
   min-height: 780px;
 }
-.pavelPic {
+.mountainPic {
   background-image: url("img/mountainboat.jpg");
   min-height: 780px;
 }
